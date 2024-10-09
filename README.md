@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 Hi, I’m @Nrhine<br>I'm a passionate software engineer focused on building intuitive, user-friendly applications. I love working on projects that make an impact and continuously challenge me to grow as a developer.<br>
+# 👋 Hi, I’m Nico
+<br>I'm a passionate software engineer focused on building intuitive, user-friendly applications. I love working on projects that make an impact and continuously challenge me to grow as a developer.<br>
 <br>👀 I’m interested in:<br>Full-stack development, creating custom solutions for small businesses, and exploring innovative tech, like AI and machine learning. My current passion project is building a custom POS and inventory system for a start-up food truck.<br>
 <br>🌱 I’m currently learning:<br>Advanced API integration, database optimization, and improving my creative writing skills. I’m also brushing up on new front-end techniques for enhancing user experiences.<br>
 <br>💞️ I’m looking to collaborate on:<br>Open-source projects related to web development, especially anything involving React, Node.js, or MySQL. I’m always excited to connect with developers working in the food service or retail tech space.<br>
