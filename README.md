@@ -1,9 +1,25 @@
-# 👋 Hi, I’m Nico
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+# Buongiorno, come stai? Sono Nico 👋
+
+## About Me
+
+I am a lifelong learner with a diverse background and a passion for technology, foreign languages, and problem-solving. My journey began in high school as a part-time employee at Best Buy, where I first developed my interest in technology and development. Later, when I started my undergraduate career at Ohio University, I initially majored in computer science but switched to political science during freshman orientation. Despite this change, I continued exploring technology in my free time.
+
+After graduating in 2020, I began working in the quality department of a medical device company, where I managed several large internal databases and ensured compliance with local and international regulations. While rewarding, the role wasn’t as fulfilling as I had hoped. In the summer of 2024, I rediscovered my passion for coding and programming, which led me to enroll in a Software Engineering bootcamp at BrainStation. There, I began developing a custom POS and inventory system for a local start-up, leveraging JavaScript, MySQL, and Agile methodologies. This system is set to launch in early 2025.
+
+Beyond my professional journey, I am passionate about traveling, reading, movies, rock climbing, and studying foreign languages. These interests have inspired me to live in several countries and states, broadening my understanding of myself, others, and various cultures. I aim to combine my love for programming and personal passions to create solutions that positively impact the world around me.
+
+## Education
+
+I recently graduated with a Diploma in Software Engineering from BrainStation. For my capstone project, I began developing a custom POS and inventory system for a start-up business in the Columbus, OH area. Designed to be an all-in-one solution for their daily business needs, this scalable application leverages React, Node.js, Express.js, MySQL, and Agile methodologies. Set to launch in 2025, it will securely process transactions, generate tailored business performance reports, automatically update inventory levels, and send alerts when stock is running low, enhancing operational efficiency.
+
+After completing the BrainStation bootcamp, I began working as a freelance developer while actively seeking a full-time position. Through freelancing, I continue to refine my skills and deliver impactful solutions while seeking opportunities to contribute to innovative projects and dynamic teams.
+
+Prior to BrainStation, I studied International Studies and Political Science, with a minor in Anthropology, at Ohio University. This academic foundation honed my critical thinking and communication skills, which I now apply to problem-solving in tech.
 
 [![](https://visitcount.itsvg.in/api?id=Nrhine&icon=2&color=0)](https://visitcount.itsvg.in)
+
 ##
-<br>I'm a passionate software engineer focused on building intuitive, user-friendly applications. I love working on projects that make an impact and continuously challenge me to grow as a developer.<br>
+
 <br>👀 I’m interested in:<br>Full-stack development, creating custom solutions for small businesses, and exploring innovative tech, like AI and machine learning. My current passion project is building a custom POS and inventory system for a start-up food truck.<br>
 <br>🌱 I’m currently learning:<br>Advanced API integration, database optimization, and improving my creative writing skills. I’m also brushing up on new front-end techniques for enhancing user experiences.<br>
 <br>💞️ I’m looking to collaborate on:<br>Open-source projects related to web development, especially anything involving React, Node.js, or MySQL. I’m always excited to connect with developers working in the food service or retail tech space.<br>
@@ -12,13 +28,16 @@
 <br>⚡ Fun fact:<br>I love learning languages and can speak both Italian and German! I’ve even translated a book and am working on getting it published.
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nico-reincheld/) 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nico-reincheld/)
 
 # 📊 GitHub Stats:
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Nrhine&theme=nord&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nrhine&theme=nord&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!---
 Nrhine/Nrhine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
