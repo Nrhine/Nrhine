@@ -1,7 +1,5 @@
 ## Ciao, come stai? Sono Nico Reincheld 👋 ( _Hello, how are you? I'm Nico Reincheld_ )
 
-    - Hello, how are you? I'm Nico 👋
-
 ## About Me
 
 I am a lifelong learner with a diverse background and a passion for technology, foreign languages, and problem-solving. My journey began in high school as a part-time employee at Best Buy, where I first developed my interest in technology and development. Later, when I started my undergraduate career at Ohio University, I initially majored in computer science but switched to political science during freshman orientation. Despite this change, I continued exploring technology in my free time.
