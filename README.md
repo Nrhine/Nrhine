@@ -1,4 +1,6 @@
-# Buongiorno, come stai? Sono Nico 👋
+## Ciao, come stai? Sono Nico Reincheld 👋 ( _Hello, how are you? I'm Nico Reincheld_ )
+
+    - Hello, how are you? I'm Nico 👋
 
 ## About Me
 
@@ -16,30 +18,61 @@ After completing the BrainStation bootcamp, I began working as a freelance devel
 
 Prior to BrainStation, I studied International Studies and Political Science, with a minor in Anthropology, at Ohio University. This academic foundation honed my critical thinking and communication skills, which I now apply to problem-solving in tech.
 
-[![](https://visitcount.itsvg.in/api?id=Nrhine&icon=2&color=0)](https://visitcount.itsvg.in)
+## Skills
 
-##
+### Languages
 
-<br>👀 I’m interested in:<br>Full-stack development, creating custom solutions for small businesses, and exploring innovative tech, like AI and machine learning. My current passion project is building a custom POS and inventory system for a start-up food truck.<br>
-<br>🌱 I’m currently learning:<br>Advanced API integration, database optimization, and improving my creative writing skills. I’m also brushing up on new front-end techniques for enhancing user experiences.<br>
-<br>💞️ I’m looking to collaborate on:<br>Open-source projects related to web development, especially anything involving React, Node.js, or MySQL. I’m always excited to connect with developers working in the food service or retail tech space.<br>
-<br>📫 How to reach me:<br>You can reach me via email at nicoreincheld@gmail.com or connect with me on LinkedIn.<br>
-<br>😄 Pronouns:<br>He/Him<br>
-<br>⚡ Fun fact:<br>I love learning languages and can speak both Italian and German! I’ve even translated a book and am working on getting it published.
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS#](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-## 🌐 Socials:
+### Frameworks & Libraries
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![Multer](https://img.shields.io/badge/Multer-FF6B6B?style=for-the-badge&logo=multer&logoColor=white)
+
+### Development Tools & Technologies
+
+![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+### Testing Tools
+
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+
+### Deployment & Hosting
+
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+
+## What I'm Learning
+
+I am actively expanding my skill set by exploring new technologies and certifications to complement my existing expertise:
+
+- Python: Learning through FreeCodeCamp to deepen my understanding of versatile scripting and data-focused programming.
+- Java: Studying through a Udemy course to strengthen my knowledge of object-oriented programming and backend development.
+- AWS Cloud Practitioner Certification: Preparing for certification to gain a foundational understanding of cloud computing and AWS services.
+
+## Projects
+
+- **Amazon Customer Reviews Enhancement Project:** During a 24-hour innovation sprint, our cross-functional team of eight took on the challenge of improving the quality and authenticity of Amazon’s customer reviews while addressing issues like spam and manipulation. Leveraging technologies like React.js, Node.js, Express.js, JavaScript, and SASS, we developed an interactive dashboard featuring AI-driven keyword analysis, advanced filtering options, and an improved review submission process to encourage detailed, authentic feedback. My role focused on crafting an intuitive, user-friendly interface and contributing to strategies for ensuring data integrity and review authenticity. Working collaboratively under Agile methodologies, we delivered a fully functional prototype and comprehensive proposal, demonstrating our ability to solve complex e-commerce challenges under tight deadlines.
+- [Amazon Client](https://github.com/Ingy10/amazon-industry-project-client)
+- [Amazon Server](https://github.com/Ingy10/amazon-industry-project-server)
+
+- **Instock Warehouse Inventory Management App:** Collaborated with a 4-person team to create a full-stack warehouse inventory management application, guided by Agile methodologies. Using React.js for the frontend, Node.js and Express.js for the backend, and MySQL for the database, we built features like real-time tracking and editing of inventory and warehouses. The app also includes seamless data synchronization and a user-friendly interface designed to simplify inventory management for end-users.
+- [InStock Client](https://github.com/Nrhine/instock-joseph)
+- [InStock Server](https://github.com/Nrhine/instock-joseph-api)
+
+## 🌐 Connect With Me!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nico-reincheld/)
-
-# 📊 GitHub Stats:
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Nrhine&theme=nord&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nrhine&theme=nord&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
----
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!---
-Nrhine/Nrhine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
